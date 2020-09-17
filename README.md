@@ -6,6 +6,6 @@
 
 ### Project Links
 
-#1 [Gallery Grid](https://gallery-grid.vercel.app/)
-#2 [Kaito Swan](https://kaito-swan.vercel.app/)
-#3 [Modern CSS Layouts](https://bundy-mundi.github.io/modern-css-layouts/)
+* #1 [Gallery Grid](https://gallery-grid.vercel.app/)
+* #2 [Kaito Swan](https://kaito-swan.vercel.app/)
+* #3 [Modern CSS Layouts](https://bundy-mundi.github.io/modern-css-layouts/)
